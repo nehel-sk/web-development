@@ -1,0 +1,24 @@
+.calc{
+    width:400px;
+    height: 600px;
+    background: gray;
+    margin-left: 485px;
+    margin-top: 25px
+}
+#screen{
+    width: 80%;
+    margin-left: 38px;
+    height: 66px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.btn{
+    width: 63px;
+    height: 47px;
+    margin-left: 27px;
+    margin-top: 38px;
+    background: #bb7763;
+}
+.btn:hover{
+    background: rgba(71, 28, 4, 0.404);
+}
